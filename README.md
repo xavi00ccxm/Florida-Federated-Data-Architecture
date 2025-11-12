@@ -101,7 +101,7 @@ A **Data Quality Feedback Loop** from the Analytics layer ensures that issues or
 ---
 
 ### ✉️ Contact
-📧 otto.delarocha@gmail.com  
+📧 xavi00ccxm@gmail.com  
 🔗 GitHub: [github.com/OttoDeLaRocha](https://github.com/OttoDeLaRocha)
 
 ---
