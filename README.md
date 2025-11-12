@@ -12,7 +12,8 @@ It leverages Microsoft Azure technologies — **Azure Data Factory (ADF)**, **Mi
 ---
 
 ### 🧩 Data Flow Diagram
-![Florida Federated Data Architecture](Florida_Federated_Data_Architecture.png)
+![Florida Federated Data Architecture](./"DataFlowArchitect DMS.png")
+
 
 ---
 
